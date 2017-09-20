@@ -6,8 +6,18 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Console Wrap",
+		"CSS Extended Completions",
+		"Exalt",
+		"Git",
+		"GitGutter",
+		"Indent XML",
 		"Package Control",
 		"SideBarEnhancements",
+		"SublimeLinter",
 		"Terminal"
 	]
 }
